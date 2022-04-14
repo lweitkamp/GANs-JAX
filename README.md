@@ -1,6 +1,6 @@
 # Generative Adversarial Networks in JAX
 
-This repository holds several notebooks that implement GANs in JAX using the Flax Linen package. All models are trained on Colab using the MNIST dataset.
+This repository holds several notebooks that implement GANs in JAX using the Flax Linen package. All models are trained on Colab using the MNIST dataset on TPUs, with parallelization enabled by default.
 
 ## Todo's
 I still want to add additional models to this repository. I'm working on the following additions:
