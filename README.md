@@ -2,12 +2,6 @@
 
 This repository holds several notebooks that implement GANs in JAX using the Flax Linen package. All models are trained on Colab using the MNIST dataset on TPUs, with parallelization enabled by default.
 
-## Todo's
-I still want to add additional models to this repository. I'm working on the following additions:
-
-- [ ] StyleGAN
-- [ ] CycleGAN
-
 ## Deep Convolutional GAN
 The <a href="https://arxiv.org/abs/1406.2661">original GAN</a> with architecture and other tips from the <a href="https://arxiv.org/abs/1511.06434">GANs for representation learning</a> paper.
 
